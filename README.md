@@ -54,5 +54,5 @@
   h. apache (https://www.apachefriends.org/de/download.html)<br />
   
 #optional<br />
-  a. wordpress installer (http://wpexpress.io/)
-  b. css generator (http://frontendbox.io/) - mac only 
+  a. wordpress installer (http://wpexpress.io/)<br />
+  b. css generator (http://frontendbox.io/) - mac only<br />
